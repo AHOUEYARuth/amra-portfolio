@@ -49,16 +49,16 @@
 
 <script>
 export default {
-  name: 'Portfolio',
+  name: 'PortfolioPage',
   data() {
     return {
-      name: 'John Doe',
-      jobTitle: 'Web Developer',
+      name: 'Ruth Alida',
+      jobTitle: 'Software Engineer',
       contact: {
-        email: 'john.doe@example.com',
-        phone: '+1 (555) 123-4567',
-        location: 'New York, NY',
-        linkedin: 'https://linkedin.com/in/johndoe'
+        email: 'ruahoueya@gmail.com',
+        phone: '+229 01 51 08 74 08',
+        location: 'cotonou, Benin',
+        linkedin: 'https://linkedin.com/in/ruth'
       },
       education: [
         {

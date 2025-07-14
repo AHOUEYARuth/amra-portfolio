@@ -1,7 +1,5 @@
 <script setup>
-import HelloWorld from './components/HelloWorld.vue'
-import Portfolio from './components/portfolio.vue';
-import TheWelcome from './components/TheWelcome.vue'
+import PortfolioPage from './components/PortfolioPage.vue';
 </script>
 
 <template>
@@ -15,7 +13,7 @@ import TheWelcome from './components/TheWelcome.vue'
 
   <!-- <main> -->
     <div class="app">
-       <Portfolio/>
+       <PortfolioPage/>
     </div>
     
     <!-- <TheWelcome /> -->
